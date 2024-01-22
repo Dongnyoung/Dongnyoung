@@ -3,11 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Dongnyoung's%20GitHub%20&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=50&)
 </div>
 
-<div align="center">
-  
-  [![Dongnyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongnyoung&include_all_commits=true&show_icons=true&theme=merco)](https://github.com/Dongnyoung/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongnyoung&layout=compact&theme=merco)
-</div>
+
 
 ## 👨‍💻Dongnyoung's velog
 
@@ -22,3 +18,8 @@
 </div><br>
 
 
+<div align="center">
+  
+  [![Dongnyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongnyoung&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/Dongnyoung/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongnyoung&layout=compact&theme=onedark)
+</div>

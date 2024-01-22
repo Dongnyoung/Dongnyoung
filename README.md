@@ -10,12 +10,11 @@
       <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leedo7182)](https://github.com/https://velog.io/@leedo7182/posts/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leedo7182)](https://github.com/Dongnyoung/velog-readme-stats)
   
 
     
 </div><br>
-
 
 # 👨‍💻Stats
 <div>
@@ -25,3 +24,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedo7182)](https://solved.ac/leedo7182/)  [![Dongnyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongnyoung&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/Dongnyoung/github-readme-stats)
  
 </div>
+
+-----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    

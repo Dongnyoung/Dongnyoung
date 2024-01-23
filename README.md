@@ -21,7 +21,7 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=leedo7182)](https://solved.ac/leedo7182)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedo7182)](https://solved.ac/leedo7182/)  [![Dongnyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongnyoung&include_all_commits=true&show_icons=true&theme=onedark)](https://github.com/Dongnyoung/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leedo7182)](https://solved.ac/leedo7182/)
  
 </div>
 

@@ -17,7 +17,8 @@
 ## 👨‍💻Open Source Contributions
 ### spring-framework
 - [Fix typo in JavaDoc of setResponse method in MockClientHttpRequest #34856](https://github.com/spring-projects/spring-framework/pull/34856)
-
+### Node.js.org
+- [feat: improve username sanitization in profiling example #7868](https://github.com/nodejs/nodejs.org/pull/7868)
 </div><br>
 
 ## 👨‍💻Stats

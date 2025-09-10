@@ -16,9 +16,11 @@
 
 ## 👨‍💻Open Source Contributions
 ### spring-framework
-- [Fix typo in JavaDoc of setResponse method in MockClientHttpRequest #34856](https://github.com/spring-projects/spring-framework/pull/34856)
+- [Fix typo in JavaDoc of setResponse method in MockClientHttpRequest #34856](https://github.com/spring-projects/spring-framework/pull/34856) (Documentation improvement)
+- [Docs: Rework mvc-jsp section with JavaConfig example (per review feedback)](https://github.com/spring-projects/spring-framework/pull/35444) 
+(Reviewed by maintainer, polished and merged — Updated XML example to JavaConfig, added legacy note)
 ### nodejs.org
-- [feat: improve username sanitization in profiling example #7868](https://github.com/nodejs/nodejs.org/pull/7868)
+- [feat: improve username sanitization in profiling example #7868](https://github.com/nodejs/nodejs.org/pull/7868) (Code example improvement)
 </div><br>
 
 ## 👨‍💻Stats

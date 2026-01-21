@@ -21,6 +21,10 @@
 (Reviewed by maintainer, polished and merged — Updated XML example to JavaConfig, added legacy note)
 ### nodejs.org
 - [feat: improve username sanitization in profiling example #7868](https://github.com/nodejs/nodejs.org/pull/7868) (Code example improvement)
+
+### Naver Pinpoint APM
+- [[#noissue] Lower log level for missing classes in ASMClassWriter #13281](https://github.com/pinpoint-apm/pinpoint/pull/13281) (Reduced noisy WARN logs by adjusting log level without altering runtime behavior)
+
 </div><br>
 
 ## 👨‍💻Stats

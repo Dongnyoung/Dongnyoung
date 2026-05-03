@@ -26,7 +26,7 @@
 - [[#noissue] Lower log level for missing classes in ASMClassWriter #13281](https://github.com/pinpoint-apm/pinpoint/pull/13281) (Reduced noisy WARN logs by adjusting log level without altering runtime behavior)
 
 ### lombok
-- [docs: clarify @Getter(lazy=true) constraints](https://github.com/projectlombok/lombok/pull/3998)
+- [docs: clarify @Getter(lazy=true) constraints](https://github.com/projectlombok/lombok/pull/3998) (Clarified constraints and internal behavior of @Getter(lazy=true) in documentation)
 
 </div><br>
 

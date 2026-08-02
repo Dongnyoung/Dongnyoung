@@ -3,16 +3,19 @@
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Hi%20I'm%20Dongnyoung%20Lee%20&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=50&)
 </div>
 
-## 👨‍💻Skills
-<p>Languages & Framworks: Java (Java 8+), Spring Boot </p>
-<p>Databases: MySQL </p>
-<p>Tools: Git, AWS </p>
+## 👨‍💻 Skills
 
-## 👨‍💻Dongnyoung's Blog
-<div style="display:flex; flex-direction:row;">
+**Languages:** Java (Java 21)
 
-[![Velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@leedo7182)
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/leedo7182)
+**Frameworks:** Spring Boot, Spring Framework, Spring Data JPA, Hibernate
+
+**Databases:** PostgreSQL, MySQL
+
+**Caching & Search:** Redis, OpenSearch
+
+**Cloud & DevOps:** AWS (EC2, RDS, S3), Docker, NGINX, GitHub Actions
+
+**Tools:** Git, GitHub, IntelliJ IDEA
 
 ## 👨‍💻Open Source Contributions
 ### spring-framework
@@ -27,6 +30,9 @@
 
 ### lombok
 - [docs: clarify @Getter(lazy=true) constraints](https://github.com/projectlombok/lombok/pull/3998) (Clarified constraints and internal behavior of @Getter(lazy=true) in documentation)
+
+### Spring Guides
+- [Pass command-line arguments to SpringApplication.run in gs-accessing-data-jpa](https://github.com/spring-guides/gs-accessing-data-jpa/pull/82) (Updated the completed JPA guide example to correctly propagate command-line arguments, aligning it with Spring Boot conventions)
 
 </div><br>
 

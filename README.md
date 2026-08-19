@@ -18,6 +18,9 @@
 **Tools:** Git, GitHub, IntelliJ IDEA
 
 ## 👨‍💻Open Source Contributions
+
+### FasterXML / Jackson
+- [PR list](https://github.com/search?q=org%3AFasterXML+author%3ADongnyoung+is%3Apr&type=pullrequests)
 ### spring-framework
 - [Fix typo in JavaDoc of setResponse method in MockClientHttpRequest #34856](https://github.com/spring-projects/spring-framework/pull/34856) (Documentation improvement)
 - [Docs: Rework mvc-jsp section with JavaConfig example (per review feedback)](https://github.com/spring-projects/spring-framework/pull/35444) 

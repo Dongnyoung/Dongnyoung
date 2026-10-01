@@ -9,7 +9,7 @@ Java · Spring Boot · PostgreSQL · Redis · OpenSearch · AWS · Docker
 
 ### FasterXML / Jackson
 
-`jackson-core`, `jackson-databind`, `jackson-dataformats-binary`에서 **파싱 및 직렬화·역직렬화 동작, 리소스 처리, 데이터 바인딩의 버그 수정과 안정성 개선**에 기여하고 있습니다.
+jackson-core, jackson-databind, jackson-dataformats-binary에서 **파싱 및 직렬화·역직렬화 동작, 리소스 처리, 데이터 바인딩의 버그 수정과 안정성 개선**에 기여하고 있습니다.
 
 - [PR list](https://github.com/search?q=org%3AFasterXML+author%3ADongnyoung+is%3Apr&type=pullrequests)
 

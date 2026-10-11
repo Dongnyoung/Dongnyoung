@@ -12,7 +12,7 @@ Java · Spring Boot · PostgreSQL · Redis · OpenSearch · AWS · Docker
 
 Java 기반 JSON 처리 라이브러리 Jackson의 **파싱 정확성, 캐시 일관성, 리소스 관리 및 데이터 바인딩 안정성** 개선에 지속적으로 기여하고 있습니다.
 
-[전체PR리스트 →](https://github.com/search?q=org%3AFasterXML+author%3ADongnyoung+is%3Apr&type=pullrequests)
+[All Contributions →](https://github.com/search?q=org%3AFasterXML+author%3ADongnyoung+is%3Apr&type=pullrequests)
 
 **Selected Contributions**
 - [Prevent stale symbol table children from replacing newer root tables #1655](https://github.com/FasterXML/jackson-core/pull/1655)

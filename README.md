@@ -14,17 +14,18 @@ Java 기반 JSON 처리 라이브러리 Jackson의 **파싱 정확성, 캐시 �
 
 [View all FasterXML contributions →](https://github.com/search?q=org%3AFasterXML+author%3ADongnyoung+is%3Apr&type=pullrequests)
 
-#### jackson-core
+#### 대표기여
+**jackson-core**
 - [Fix UTF-8 surrogate validation in String skip path #1727](https://github.com/FasterXML/jackson-core/pull/1727)
 - [Prevent stale symbol table children from replacing newer root tables #1655](https://github.com/FasterXML/jackson-core/pull/1655)
 - [Fix ByteBuffer-backed async releaseBuffered() output #1647](https://github.com/FasterXML/jackson-core/pull/1647)
 
-#### jackson-databind
+**jackson-databind**
 - [Fix read-only serializer cache invalidation for typed replacements #6143](https://github.com/FasterXML/jackson-databind/pull/6143)
 - [Apply default null handling to @JsonAnySetter #6171](https://github.com/FasterXML/jackson-databind/pull/6171)
 - [Fix DefaultCacheProvider.Builder default cache sizes #6138](https://github.com/FasterXML/jackson-databind/pull/6138)
 
-#### jackson-dataformats-binary
+**jackson-dataformats-binary**
 - [Fix unsupported isEnd() call for Apache DirectBinaryDecoder #808](https://github.com/FasterXML/jackson-dataformats-binary/pull/808)
 
 
@@ -41,7 +42,9 @@ Java 기반 JSON 처리 라이브러리 Jackson의 **파싱 정확성, 캐시 �
 
 ### Dealit
 
-실시간 경매 기반 중고거래 플랫폼 | 팀장 · Backend · Infrastructure
+**2025.12 ~ 2026.06 | 팀장 · Backend · Infrastructure**
+
+실시간 경매 기반 중고거래 플랫폼
 
 **Tech Stack:** Java, Spring Boot, PostgreSQL, Redis, OpenSearch, AWS, Docker
 
